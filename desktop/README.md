@@ -24,7 +24,7 @@ python Tardigrade.py
 
 ## Prebuilt applications
 
-Portable Windows and Linux builds are available from the GitHub Releases page.
+Portable Windows and Linux builds are available from [GitHub Releases](https://github.com/amirizadi-1/tardigrade-gwas/releases/tag/v1.0.1).
 
 ## Development and Design
 

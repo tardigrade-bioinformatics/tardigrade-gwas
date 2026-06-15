@@ -4,6 +4,23 @@
 
 Developed by **[Amir Izadi](https://github.com/amirizadi-1)** and **[Zahra Aghabeygi](https://github.com/zahraaghabeygi)**.
 
+## Desktop Downloads
+
+| Platform | Download | Requirements |
+|---|---|---|
+| Windows x64 | [Download ZIP](https://github.com/amirizadi-1/tardigrade-gwas/releases/download/v1.0.1/Tardigrade-Windows-x64-v1.0.1.zip) | 64-bit Windows |
+| Linux x86_64 | [Download tar.gz](https://github.com/amirizadi-1/tardigrade-gwas/releases/download/v1.0.1/Tardigrade-Linux-x86_64-v1.0.1.tar.gz) | glibc 2.38 or newer |
+
+Checksum files:
+
+- [Windows SHA-256](https://github.com/amirizadi-1/tardigrade-gwas/releases/download/v1.0.1/Tardigrade-Windows-x64-v1.0.1.sha256)
+- [Linux SHA-256](https://github.com/amirizadi-1/tardigrade-gwas/releases/download/v1.0.1/Tardigrade-Linux-x86_64-v1.0.1.sha256)
+
+See the complete [Tardigrade v1.0.1 release notes](https://github.com/amirizadi-1/tardigrade-gwas/releases/tag/v1.0.1).
+
+> Extract the complete archive before running the application. Do not run the Windows executable directly from inside the ZIP file. On Linux, run `chmod +x Tardigrade` before the first launch if required.
+
+
 > Tardigrade GWAS is a research utility. It is not a clinical diagnostic system and should not be used as the sole basis for medical decisions.
 
 ## Features
